@@ -11,3 +11,6 @@
 5、双击“初始配置”
 
 6、双击“WechatGPT.bat”，扫码登录即可使用
+
+*如果设置了代理，proxy要填写代理地址*
+具体请参考大佬的开源项目：https://github.com/zhayujie/chatgpt-on-wechat
