@@ -1,4 +1,4 @@
-下载并且解压WechatGPT
+**下载并且解压WechatGPT**
 
 1、双击“python-3.8.0-amd64-webinstall”安装python，记得勾选“Add Python 3.8 to PATH”
 
@@ -12,9 +12,11 @@
 
 6、双击“WechatGPT.bat”，扫码登录即可使用
 
-**新增：
+**新增**
 
-*微信语音*（openai)
+首先第一步学会"WIN+R"打开"运行"，输入"cmd"进入"命令行"
+
+***微信语音（openai)***
 
 语音识别和回复所需依赖如下：
 
@@ -37,7 +39,7 @@ pip install SpeechRecognition
 实在不行就接百度/azure/linkai等API，更方便（可能要加钱）
 
 
-*安装python之后pip无法使用*
+***安装python之后pip无法使用***
 
 大概率是要重装pip，先将原路径下的pip文件删掉（C:\Users\用户名\AppData\Local\Programs\Python\Python38\Lib\site-packages）
 
