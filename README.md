@@ -60,4 +60,5 @@ python -m pip install --upgrade pip
 *如果设置了代理，proxy要填写代理地址*
 
 具体请参考zhayujie大佬的开源项目：https://github.com/zhayujie/chatgpt-on-wechat
+
 获取openai的免费/收费API请移步chatanywhere大佬的开源项目：https://github.com/chatanywhere/GPT_API_free
