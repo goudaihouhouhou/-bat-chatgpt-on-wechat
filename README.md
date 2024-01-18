@@ -1,4 +1,5 @@
-**下载并且解压WechatGPT**
+**请尽量使用自己的API key！！**
+**下载并且解压WechatGPT.bat**
 
 1、双击“python-3.8.0-amd64-webinstall”安装python，记得勾选“Add Python 3.8 to PATH”
 
