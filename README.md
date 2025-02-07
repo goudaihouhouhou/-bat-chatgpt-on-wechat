@@ -1,4 +1,5 @@
 **wechat已禁用该接口，请勿使用**
+
 **请尽量使用自己的API key！！**
 **下载并且解压WechatGPT.rar**
 
